@@ -1,0 +1,28 @@
+14-09-2023 05:50:27 - INFO  - 7.9.2 - 53.5 MB/256 MB - admin > Start upgrade from 0.0.0
+14-09-2023 05:50:27 - INFO  - 7.9.2 - 56.3 MB/256 MB - admin > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+14-09-2023 05:50:27 - INFO  - 7.9.2 - 56.3 MB/256 MB - admin > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+14-09-2023 05:50:27 - INFO  - 7.9.2 - 56.3 MB/256 MB - admin > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+14-09-2023 05:50:27 - INFO  - 7.9.2 - 56.3 MB/256 MB - admin > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+14-09-2023 05:50:27 - INFO  - 7.9.2 - 56.3 MB/256 MB - admin > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+14-09-2023 05:50:27 - INFO  - 7.9.2 - 56.3 MB/256 MB - admin > Backing up options of 0.0.0
+14-09-2023 05:50:27 - INFO  - 7.9.2 - 56.3 MB/256 MB - admin > End
